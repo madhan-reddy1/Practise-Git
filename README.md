@@ -1,2 +1,2 @@
 #Coding-Exercises
-This repository stores all daily coded leetcode and general problem in python
+This repository stores all daily coded leetcode and general problems in python
