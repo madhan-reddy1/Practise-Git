@@ -33,5 +33,5 @@ def twoSum(numbers,target):
 # In[2]:
 
 
-twoSum(numbers = [2,7,11,15], target = 9)
+print(twoSum(numbers = [2,7,11,15], target = 9))
 
