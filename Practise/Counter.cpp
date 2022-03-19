@@ -13,8 +13,8 @@ void rec1(int n){
 
 int main(int argc, char const *argv[])
 {
+	int n;
+	cin>>n;
 	rec1(5);
 	return 0;
 }
-
-saikiranmadala10@gmail.com
