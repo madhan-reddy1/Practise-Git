@@ -1,5 +1,7 @@
 def printpascal(n):
 	outer_list1=[]
+	# // this code is stupid
+ 
 	for i in range(0,n):
 		inner_list=[]
 		for j in range(0,i+1):
